@@ -18,7 +18,7 @@ Credit 👈
 Credit for this project is given to the work I put into it.  In addition, any time I had trouble with this project, I took the initiative to get help from a Bootcamp tutor.
 
 License 📝
-The license is in the Repo.
+NA
 
 ⭐ Features ⭐
 This project features how I made some improvements to this project.
