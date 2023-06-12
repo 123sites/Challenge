@@ -1,27 +1,28 @@
-⭐ Horiseon Website Challenge ⭐
+## ⭐ Horiseon Upgrade! ⭐
 
-Description ✏️
-I was given a challenge to make some improvements to a webpage.  I changed some of the HTML5, added alt tags, and other changes to make the web page better than it was before.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Installation 🔑
+## Description ✏️
+
+I was given a challenge to make some improvements to a webpage. I changed some of the HTML5, added alt tags, and other changes to make the web page better than it was before.
+
+## Installation 🔑
+
 There weren't any installations with this project.
 
-Usage 🎯
-This project will display what I am capable of doing with a webpage.
-## Usage
-Top of the webpage:
-[image](https://user-images.githubusercontent.com/112774966/189451414-d63f4a93-4a2b-40a3-8568-4e4da36f94a7.png)
-Bottom of webpage:
-[image](https://user-images.githubusercontent.com/112774966/189451529-562bd28c-5945-49be-9e33-d77c5a18b6db.png)
+## Usage 🎯
 
-Credit 👈
-Credit for this project is given to the work I put into it.  In addition, any time I had trouble with this project, I took the initiative to get help from a Bootcamp tutor.
+This challenge demonstrated what I could do with some improvements to the html and CSS.
 
-License 📝
+## Screenshot 🎯
+
+![Screenshot](./assets/images/website-image.png)
+
+## Credits 👈
+
+Credit for this project is given to notes from class, the w3Schools website, and help from a Bootcamp tutor, as needed.
+
+## License 📝
+
 NA
-
-⭐ Features ⭐
-This project features how I made some improvements to this project.
-
-
-
